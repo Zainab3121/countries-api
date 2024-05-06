@@ -1,0 +1,12 @@
+body .homeDarkMode {
+    background-color: #202c37;
+}
+.homeDarkMode .home, .homeDarkMode .countriesContainer, .homeDarkMode select, .homeDarkMode input, .homeDarkMode .search {
+    background-color: #202c37 ;
+    color: white;
+}
+
+.homeDarkMode .navbar, .homeDarkMode .backButton {
+    color: white;
+}
+
